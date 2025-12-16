@@ -1,0 +1,21 @@
+{
+  "name": "SPURDO",
+  "symbol": "SPURDO",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "SPURDO meme token on Ethereum",
+  "website": "https://spurdomeme.com",
+  "explorer": "https://etherscan.io/token/0x74c00c26e0ace673313aebf749a1a9644eeefdea",
+  "status": "active",
+  "id": "0x74C00C26E0ACE673313AEBF749A1A9644EEEFDEA",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/Spurdoethcto"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/SPURDOETHCTOPORTAL"
+    }
+  ]
+}
